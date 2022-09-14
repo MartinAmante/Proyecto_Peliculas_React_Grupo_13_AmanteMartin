@@ -1,0 +1,74 @@
+body{
+    font-style: oblique;
+    background-image: url(../Images/bg-tile-dark-turquoise.jpg);
+}
+.header{
+    
+    display: inline;
+    display: flex;
+    background-color: rgb(17, 17, 17);
+    border-radius: 15px;
+    height: 100px;
+    justify-content: flex-start;
+    align-items: center;
+    font-size: 25px;
+    font-family: "Franklin Gothic",-apple-system,BlinkMacSystemFont,"PT Sans",Arial,Sans-Serif;
+}
+.tituloPag{
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+    border-radius: 15px;
+    margin: 2%;
+    text-align: start;
+    font-style: oblique;
+    font-size: 200%;
+    color: #860000;
+    font-family: Neusa,Impact,Helvetica Neue,Arial,Sans-Serif;
+
+}
+a {
+    color: #ffffff;
+    padding: 14px 80px;
+    text-decoration: none;
+}
+.footer{
+    color: #ffffff;
+    padding: 14px 5px;
+    text-decoration: none;
+    margin: 30px;
+}
+img {
+    margin: 10px;
+    width: 30%;
+}
+
+.peliculas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tarjeta {
+    width: 90%;
+    background-image: radial-gradient(circle at 0 0, rgb(15, 15, 15), rgb(17, 17, 17), rgb(15, 15, 15));
+    margin: 20px;
+    padding: 10px;
+    border-radius: 20px;
+    box-shadow: 5px 5px rgb(0, 0, 0);
+}
+.titulo {
+    margin: 10px;
+    color: #d8d8d8;
+    font-family: "Franklin Gothic",-apple-system,BlinkMacSystemFont,"PT Sans",Arial,Sans-Serif;
+    border-bottom: 2px solid rgb(71, 71, 71);
+    text-transform: uppercase;
+}
+.synopsis {
+    width: 60%;
+    margin: 2%;
+}
+
+.info {
+    color: rgb(224, 224, 224);
+    display: flex;
+    
+}

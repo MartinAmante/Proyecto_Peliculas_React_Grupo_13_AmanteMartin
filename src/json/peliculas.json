@@ -1,0 +1,69 @@
+[
+  {
+    "img":"./images/5147637.webp",
+    "titulo": "DRAGON SUPER HERO",
+    "sinopsis":"Hace mucho tiempo que Goku acabó con la malvada organización del Ejército del Listón Rojo; sin embargo, ¡su voluntad perduró! Ahora que están de regreso, crearon a los nuevos androides Gamma Número 1 y Gamma Número 2, y comenzaron así su venganza. Piccolo pronto se entera de esta actividad perturbadora, y se infiltra a la base del Listón Rojo, ¡pero una vez allí descubre la existencia del arma del mal definitiva!. Pan es secuestrada para atraer a Gohan a la base. Al llegar, él también se une a la acción, ¡¡¡y así comienza una superbatalla sin precedentes!!! ¿Qué pasará en este duelo a muerte? ¿Y cuál será el destino que le depara a la Tierra?",
+    "duracion":"Duracion 1h:40m",
+    "clasificacion":"PG-13",
+    "genero":"Accion - Aventura - Fantasia - Anime",
+    "Actor1":"Goku: Mario Cataneda",
+    "Actor2":"Gohan: Luis Manuel Avila",
+    "Actor3":"Vegeta: René García",
+    "Actor4":"Piccolo: Carlos Segundo",
+    "recepcion": "./images/Captura de pantalla 2022-08-27 183238.png",
+    "src" : "https://www.youtube.com/embed/lXLPVQ-WrU4"
+  },
+  {
+    "img":"./images/MV5BZjYyMzdiNTMtZWJmMy00M2Q0LWJlMzYtZjMxMmU1OGQ2YjM5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+    "titulo": "JACKASS FOREVER",
+    "sinopsis":"Celebrando la alegría de volver a estar juntos con tus mejores amigos y un tiro perfectamente ejecutado al dingdong, el equipo original de Jackass regresa para otra ronda de demostraciones de comedia hilarantes, tremendamente absurdas y, a menudo, peligrosas con un poco de ayuda de un nuevo y emocionante elenco.",
+    "duracion":"Duracion 1h 36m",
+    "clasificacion":"R (Desnudez gráfica|Acrobacias peligrosas|Idioma general|Material fuerte y crudo)",
+    "genero":"Comedia fisica - Reality - Documental - Comedia cinematografica",
+    "Actor1":"Johnny Knoxville",
+    "Actor2":"Steve-O",
+    "Actor3":"Chris Pontius",
+    "Actor4":"Jason WeeMan Acuna",
+    "src" : "https://www.youtube.com/embed/tvcNeCVwB0A"
+  },
+  {
+    "img":"./images/Thor_Love_and_Thunder-566116133-large.jpg",
+    "titulo": "THOR LOVE AND THUNDER",
+    "sinopsis":"'Thor: Love and Thunder' encuentra a Thor (Chris Hemsworth) en un viaje diferente a todo lo que ha enfrentado: una búsqueda de la paz interior. Pero su retiro es interrumpido por un asesino galáctico conocido como Gorr the God Butcher (Christian Bale), que busca la extinción de los dioses. Para combatir la amenaza, Thor solicita la ayuda del rey Valkyrie (Tessa Thompson), Korg (Taika Waititi) y su exnovia Jane Foster (Natalie Portman), quien, para sorpresa de Thor, empuña inexplicablemente su martillo mágico, Mjolnir, como el Poderoso Thor. Juntos, se embarcan en una angustiosa aventura cósmica para descubrir el misterio de la venganza del Dios Carnicero y detenerlo antes de que sea demasiado tarde.",
+    "duracion":"Duracion 1h 59m",
+    "clasificacion":"PG-13 (Algo de lenguaje fuerte | Secuencias de acción intensa)",
+    "genero":"Accion - Aventura - Fantasia - Comedia",
+    "Actor1":"Chris Hemsworth 'Thor'",
+    "Actor2":"Natalie Portman 'Jane Foster'",
+    "Actor3":"Christian Bale 'Gorr'",
+    "Actor4":"Tessa Thompson 'Valkiria'",
+    "src" : "https://www.youtube.com/embed/ZaD7iZR0-5w"
+  },
+  {
+    "img":"./images/Top_Gun_Maverick-537976462-large.jpg",
+    "titulo": "Top Gun Maverick",
+    "sinopsis":"Después de más de treinta años de servicio como uno de los mejores aviadores de la Marina, Pete 'Maverick' Mitchell (Tom Cruise) está donde pertenece, superando los límites como un valiente piloto de pruebas y esquivando el ascenso de rango que lo dejaría en tierra. Cuando se encuentra entrenando a un destacamento de graduados de Top Gun para una misión especializada como ningún piloto vivo ha visto jamás, Maverick se encuentra con el teniente Bradley Bradshaw (Miles Teller), distintivo de llamada: 'Rooster', el hijo del difunto amigo de Maverick. y el oficial de intercepción de radar, el teniente Nick Bradshaw, también conocido como 'Goose'. Enfrentando un futuro incierto y enfrentando los fantasmas de su pasado, Maverick se ve envuelto en una confrontación con sus propios miedos más profundos, que culmina en una misión que exige el máximo sacrificio de aquellos que serán elegidos para volarla.",
+    "duracion":"Duracion 2h 11m",
+    "clasificacion":"PG-13 (Algo de lenguaje fuerte | Secuencias de acción intensa)",
+    "genero":"Accion - Aventura",
+    "Actor1":" Tom Cruise 'Pete -maverick- Mitchell'",
+    "Actor2":"Miles Teller 'Bradley -rooster- Bradshaw'",
+    "Actor3":"Jennifer Connelly 'Penny Benjamin'",
+    "Actor4":"Glen Powell 'Jake -Hangman- Seresin'",
+    "src" : "https://www.youtube.com/embed/1w2P46uub7M"
+  },
+  {
+    "img":"./images/TheBatmanPortada.jpg",
+    "titulo": "THE BATMAN",
+    "sinopsis":"Batman se aventura en los bajos fondos de Gotham City cuando un sádico asesino deja tras de sí un rastro de pistas crípticas. A medida que la evidencia comienza a llegar más cerca de casa y la escala de los planes del perpetrador se vuelve clara, debe forjar nuevas relaciones, desenmascarar al culpable y hacer justicia por el abuso de poder y la corrupción que ha plagado durante mucho tiempo a la metrópoli.",
+    "duracion":"Duracion 2h 56m",
+    "clasificacion":"PG-13 (Algo de lenguaje fuerte | Secuencias de acción intensa)",
+    "genero" :"Accion - Aventura - Crimen - Drama",
+    "Actor1":"Robert Pattinson 'Batman'",
+    "Actor2":"Zoë Kravitz 'Gatubela'",
+    "Actor3":"Jeffrey Wright 'James Gordon'",
+    "Actor4":"Colin Farrell 'El Pinguino'",
+    "src" : "https://www.youtube.com/embed/fWQrd6cwJ0A"
+  }
+
+]

@@ -1,0 +1,29 @@
+body{
+    font-style: oblique;
+    background-image: url(../images/bg-tile-dark-turquoise.jpg);
+}
+.sectionIndex{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.tituloIndex{
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+    border-radius: 15px;
+    text-align: center;
+    font-style: oblique;
+    font-size: 1000%;
+    color: #860000;
+    font-family: Neusa,Impact,Helvetica Neue,Arial,Sans-Serif;
+}
+.boton{
+    font-size: 300%;
+    border-radius: 15px;
+    background-color: rgb(14, 14, 14);
+    color: #860000;
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+    text-decoration: none;
+    width: 9%;
+    font-family: Neusa,Impact,Helvetica Neue,Arial,Sans-Serif;
+}
