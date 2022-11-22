@@ -1,7 +1,6 @@
 import React from "react";
 
-class Portada extends React.Component{
-    render(){
+function Portada() {
     return(
         <div>
             <nav>
@@ -11,7 +10,6 @@ class Portada extends React.Component{
                 </section>
             </nav>
         </div>
-        )
-    }
+        );
 }
 export default Portada;

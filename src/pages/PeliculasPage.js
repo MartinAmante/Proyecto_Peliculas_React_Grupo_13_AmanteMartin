@@ -3,13 +3,13 @@ import Header from '../component/Header.js';
 import Body from '../component/Body.js';
 import peliculas from '../json/peliculas.json';
 
-class PeliculasPage extends React.Component{
-    render(){
+function PeliculasPage() {
     return(
         <>
         <Header/>
-        {peliculas.map(peli =>
+        {peliculas.map((peli,i) =>
              <Body
+              key = {i}
               img={peli.img}
               titulo={peli.titulo}
               sinopsis={peli.sinopsis}
@@ -25,8 +25,6 @@ class PeliculasPage extends React.Component{
               )
             }
         </>
-          
-        )
-    }
+        );
 }
 export default PeliculasPage;

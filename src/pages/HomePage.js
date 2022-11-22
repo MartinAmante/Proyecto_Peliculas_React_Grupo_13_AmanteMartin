@@ -1,13 +1,11 @@
 import React from "react";
 import Portada from "../component/Portada.js";
 
-class HomePage extends React.Component{
-    render(){
+function HomePage() {
     return(
         <> 
         <Portada/>
         </>
-      )
-    }
+      );
 }
 export default HomePage;

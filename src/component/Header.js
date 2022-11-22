@@ -1,12 +1,11 @@
 import React from "react";
 
-class Header extends React.Component{
-render(){
+function Header() {
     return(
     <div>
         <nav>
           <section className="header">
-            <p class="tituloPag">ZONACINEMA</p>
+            <p className="tituloPag">ZONACINEMA</p>
             <a href="/" >Inicio</a>
             <a href="./peliculas" >Peliculas</a>
             <a href="./peliculas">Comprar entradas</a>
@@ -14,9 +13,7 @@ render(){
           </section>
         </nav>
     </div>
-   )
-
- }
+   );
 
 }
 export default Header;
